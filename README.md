@@ -1,2 +1,2 @@
-# khantigul-store-sales-time-series-forecasting
+# khantigul-time-series-forecasting
 Data Mining Project Work - Store Sales Time Series Forecasting - Kaggle Competition
