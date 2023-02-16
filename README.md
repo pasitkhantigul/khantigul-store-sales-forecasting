@@ -1,7 +1,7 @@
 # khantigul-store-sales-forecasting
 
 
-The problem for this project is a time series prediction, presented as a Kaggle competition.
+The problem for this project is a time series prediction, presented as a [Kaggle competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting).
 
 In fact, the goal is to use machine learning algorithms to forecast store sales on data from Corporación Favorita, a large grocery retailer based in Ecuador. 
 
