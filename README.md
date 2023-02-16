@@ -39,3 +39,9 @@ It is mandatory to sign in/log in, then click on “Copy & Edit” button to run
 The dataset is already pre-loaded since it is provided by Kaggle.
 
 - Google Colab Notebook: Anyone with the link can run the notebook. The dataset must be uploaded with path ../input/store-sales-time-series-forecasting/’
+
+----------
+Folders content:
+- Data/Input: datasets described above
+- Data/Output: plots images and submission datasets with Kaggle Notebook
+- pdf: pdf versions of the Notebook and the Presentation.
