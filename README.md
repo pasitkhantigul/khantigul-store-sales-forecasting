@@ -42,6 +42,9 @@ The dataset is already pre-loaded since it is provided by Kaggle.
 
 ----------
 Folders content:
+- khantigul-notebook-store-sales-forecasting.ipynb --> the notebook
+- khantigul-store-sales-forecasting.pptx --> the presentation
+
 - /Data/Input: datasets described above
 - /Data/Output: plots images and submission datasets with Kaggle Notebook
 - /pdf/: pdf versions of the Notebook and the Presentation.
