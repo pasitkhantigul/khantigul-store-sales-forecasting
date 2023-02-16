@@ -42,6 +42,6 @@ The dataset is already pre-loaded since it is provided by Kaggle.
 
 ----------
 Folders content:
-- Data/Input: datasets described above
-- Data/Output: plots images and submission datasets with Kaggle Notebook
-- pdf: pdf versions of the Notebook and the Presentation.
+- /Data/Input: datasets described above
+- /Data/Output: plots images and submission datasets with Kaggle Notebook
+- /pdf/: pdf versions of the Notebook and the Presentation.
