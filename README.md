@@ -10,10 +10,14 @@ In fact, the goal is to use machine learning algorithms to forecast store sales 
 - get the lowest score from submissions.
 
 To reach the goal described above, it is necessary to model both time dependence and serial dependence features, into one hybrid model, called BoostedHybrid, composed of two complementary learning algorithms.
+
 ----------
 The dataset provided by Kaggle is in the subfolder 
 
-‘[khantigul-store-sales-forecasting](https://github.com/pasitkhantigul/khantigul-store-sales-forecasting)/[Data](https://github.com/pasitkhantigul/khantigul-store-sales-forecasting/tree/main/Data)/**Input**/’
+[khantigul-store-sales-forecasting/Data/Input/](https://github.com/pasitkhantigul/khantigul-store-sales-forecasting/tree/main/Data/Input)
+
+
+
 
 and it consists of 7 datasets namely:
 
